@@ -1,0 +1,27 @@
+# Ignore a specific file
+secret-config.json
+
+# Ignore a folder and everything in it
+node_modules/
+
+# Ignore all .env files
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore VSCode settings (example)
+.vscode/
+
+# Ignore all image files everywhere
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.gif
+**/*.bmp
+**/*.tiff
+**/*.webp
+**/*.svg
+
+# Ignore all .txt files everywhere
+**/*.txt
